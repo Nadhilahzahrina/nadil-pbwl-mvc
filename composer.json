@@ -1,0 +1,19 @@
+{
+    "name": "tugas1_nadhilah",
+    "description": "Tugas 1 SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nadhilah",
+            "email": "nadhilahzahrina.nz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
